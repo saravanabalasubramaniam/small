@@ -1,6 +1,6 @@
 import java.io.*;
 import java.util.*;
-public class Maximum 
+public class Small
 {
 
     public static void main(String[] args)
